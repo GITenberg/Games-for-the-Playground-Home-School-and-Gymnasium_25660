@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31491'
     url: http://www.gutenberg.org/2009/agents/31491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25660#Games-for-the-Playground-Home-School-and-Gymnasium
 gutenberg_issued: '2008-05-31'
 gutenberg_type: Text
 identifiers:
