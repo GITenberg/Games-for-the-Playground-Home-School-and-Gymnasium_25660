@@ -1,0 +1,25 @@
+_repo: Games-for-the-Playground-Home-School-and-Gymnasium_25660
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25660-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bancroft, Jessie Hubbell
+    birthdate: 1867
+    gutenberg_agent_id: '31491'
+    url: http://www.gutenberg.org/2009/agents/31491
+description: ''
+gutenberg_issued: '2008-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Games'
+- !lcc 'GV'
+title: Games for the Playground, Home, School and Gymnasium
+url: http://www.gutenberg.org/ebooks/25660
